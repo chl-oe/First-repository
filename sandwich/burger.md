@@ -1,7 +1,5 @@
-Pain
-Steak
+steak vegan
 Salade
 Tomate
 Cornichon
 Fromage
-Pain
